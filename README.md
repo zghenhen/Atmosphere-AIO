@@ -1,3 +1,34 @@
+# 大气层1.11.2整合包V1带特斯拉和极限超频（2026.6.17更新）
+
+大气层1.11.2最高支持22.5.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
+
+【下载地址】
+
+https://github.com/zghenhen/Atmosphere-AIO/releases
+
+https://codeberg.org/zghenhen/Atmosphere-AIO/releases
+
+2026.6.17更新大气层1.11.2整合包V1，更新大气层1.11.2，hekate6.5.3和sys-patch-1.6.2.2。更新CyberFoil.nro-1.4.5中文。极限超频Horizon OC 2.4.1的atmosphere/loader/hoc.kip文件还没更新适配大气层1.11.2，删hoc.kip文件可以先当普通超频用着。
+
+【使用说明】
+
+用的莱莱大气层包，调整hekate启动大气层的引导顺序，精简些NRO插件，默认开机启动Tesla，极限超频和syspatch，相册改sphaira。大气层真实系统可正常联机，因syspatch所以升级正版系统要切换到机身正版系统，大气层虚拟系统做了序列号和host双防。
+
+ATM-EMU：大气层虚拟系统（Hekate的Fss0引导，强制只能进虚拟系统，可以用插件软件）
+
+ATM-SYS：大气层真实系统（Hekate的Fss0引导，强制只能进真实系统，可以用插件软件）
+
+OFW-SYS：机身正版系统（Hekate的Fss0引导，强制只能进真实系统，无破解，又名正版系统）
+
+【更新大气层文件】
+
+1.每次更新TF卡上的大气层文件，不能dbi.nro或者haze.nro来更新TF卡上的大气层破解包文件，建议选择1、重启hekate，在usb工具-SD卡这里usb数据线连win电脑。2、也可以选择关机取出TF卡，插入读卡器接win电脑。
+
+2.推荐批处理脚本del-atmosphere-syspatch.bat一键清理TF卡上旧的大气层破解包。或者TF卡保留nintendo，emummc，jksv和switch/checkpoint/saves四个文件夹，删除其余的之后再将压缩包中的文件全选复制到TF卡覆盖。
+
+【进虚拟系统】
+
+大气层虚拟系统首先进相册，sphaira那里按X安装桌面的万能前端。以后使用Checkpoint，jksv，dbi，CyberFoil都能稳定不崩溃。
 
 ![Banner](img/banner.png?raw=true)
 =====
