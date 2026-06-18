@@ -1,4 +1,4 @@
-# 大气层1.11.2整合包V1带特斯拉和极限超频（2026.6.17更新）
+# 大气层1.11.2整合包V1带特斯拉和极限超频（2026.6.18更新）
 
 大气层1.11.2最高支持22.5.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
 
@@ -8,15 +8,17 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
+2026.6.18更新大气层1.11.2整合包V2，更新大气层启动图标，更新sys-patch-1.6.2.3，更新极限超频Horizon OC 2.4.2适配大气层1.11.2。
+
 2026.6.17更新大气层1.11.2整合包V1，更新大气层1.11.2，hekate6.5.3和sys-patch-1.6.2.2。更新CyberFoil.nro-1.4.5中文。极限超频Horizon OC 2.4.1的atmosphere/loader/hoc.kip文件还没更新适配大气层1.11.2，删hoc.kip文件可以先当普通超频用着。
 
 【使用说明】
 
 用的莱莱大气层包，调整hekate启动大气层的引导顺序，精简些NRO插件，默认开机启动Tesla，极限超频和syspatch，相册改sphaira。大气层真实系统可正常联机，因syspatch所以升级正版系统要切换到机身正版系统，大气层虚拟系统做了序列号和host双防。
 
-ATM-EMU：大气层虚拟系统（Hekate的Fss0引导，强制只能进虚拟系统，可以用插件软件）
+ATM-EMU：大气层-虚拟系统（Hekate的Fss0引导，强制只能进虚拟系统，可以用插件软件）
 
-ATM-SYS：大气层真实系统（Hekate的Fss0引导，强制只能进真实系统，可以用插件软件）
+ATM-SYS：大气层-真实系统（Hekate的Fss0引导，强制只能进真实系统，可以用插件软件）
 
 OFW-SYS：机身正版系统（Hekate的Fss0引导，强制只能进真实系统，无破解，又名正版系统）
 
