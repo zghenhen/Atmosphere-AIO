@@ -1,4 +1,4 @@
-# 大气层1.11.2整合包V1带特斯拉和极限超频（2026.6.18更新）
+# 大气层1.11.2整合包V3带特斯拉和极限超频（2026.7.14更新）
 
 大气层1.11.2最高支持22.5.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
 
@@ -8,9 +8,7 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
-2026.6.18更新大气层1.11.2整合包V2，更新大气层启动图标，更新sys-patch-1.6.2.3，更新极限超频Horizon OC 2.4.2适配大气层1.11.2。
-
-2026.6.17更新大气层1.11.2整合包V1，更新大气层1.11.2，hekate6.5.3和sys-patch-1.6.2.2。更新CyberFoil.nro-1.4.5中文。极限超频Horizon OC 2.4.1的atmosphere/loader/hoc.kip文件还没更新适配大气层1.11.2，删hoc.kip文件可以先当普通超频用着。
+2026.7.14更新大气层1.11.2整合包V3，更新hekate的汉化文件nyx.bin-2026.6.29，更新特斯拉插件的ovlloader，ovlmenu-ultrahand，ovlsysmodule，更新Checkpoint.nro-4.0.0英文，DBI.nro-898汉化版。
 
 【使用说明】
 
