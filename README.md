@@ -12,7 +12,11 @@ https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
 【使用说明】
 
-用的莱莱大气层包，调整hekate启动大气层的引导顺序，精简些NRO插件，默认开机启动Tesla，极限超频和syspatch，相册改sphaira。大气层真实系统可正常联机，因syspatch所以升级正版系统要切换到机身正版系统，大气层虚拟系统做了序列号和host双防。
+首先感谢莱莱大佬的大气层整合包的制作教程，和大佬的沟通交流，已经熟练掌握方法，以后更新也会自己动手弄了。
+
+https://github.com/laila509/hekate_ipl/releases/tag/v6.0.3
+
+我是根据莱莱的大气层整合包作为底包，调整hekate启动大气层的引导顺序，精简些NRO插件，默认开机启动Tesla，极限超频和syspatch，相册改sphaira。大气层真实系统可正常联机，因syspatch所以升级正版系统要切换到机身正版系统，大气层虚拟系统做了序列号和host双防。
 
 ATM-EMU：大气层-虚拟系统（Hekate的Fss0引导，强制只能进虚拟系统，可以用插件软件）
 
@@ -28,7 +32,13 @@ OFW-SYS：机身正版系统（Hekate的Fss0引导，强制只能进真实系统
 
 【进虚拟系统】
 
-大气层虚拟系统首先进相册，sphaira那里按X安装桌面的万能前端。以后使用Checkpoint，jksv，dbi，CyberFoil都能稳定不崩溃。
+1.大气层虚拟系统首先进相册，sphaira那里按X安装桌面的万能前端。以后使用Checkpoint，jksv，dbi，CyberFoil都能稳定不崩溃。
+
+2.特斯拉插件修改为L+Ddown开启菜单，启动在相册Hekate/Deepsea工具箱里找Background services，设ON完毕，然后按B退出，再按Home保存后重启机器。切记：每次调Hekate工具箱后台插件管理务必确保sys-patch要设置ON。
+
+3.虚拟系统玩破解游戏只需要建一个头像账号，可以用linkalho.nro离线绑定任天堂账号。
+
+4.极限超频插件Switch-OC-Suite和普通超频区别是多了loader.kip这个文件（每次系统更新，loader.kip也要适配）和在hekate_ipl.ini中加一条指令kip1=atmosphere/kips/loader.kip。覆盖这2个文件就可变成极限超频，再加上boot2.flag零文件就变成系统自动启动极限超频插件。非续航型号不必超频，其它型号可以玩玩普通超频，玩极限超频去专门提供教程的网站学习，极限超频弄坏系统或硬件一律归于个人行为。
 
 ![Banner](img/banner.png?raw=true)
 =====
