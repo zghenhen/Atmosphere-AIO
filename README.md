@@ -1,4 +1,4 @@
-# 大气层1.11.2整合包V4带特斯拉和极限超频（2026.7.22更新）
+# 大气层1.11.2整合包V4带特斯拉和极限超频（2026.7.29更新）
 
 大气层1.11.2最高支持22.5.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
 
@@ -8,7 +8,7 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
-2026.7.22更新大气层1.11.2整合包V4，easyworld更新hekate的汉化文件nyx.bin，更新极限超频Horizon OC 2.5.0。
+2026.7.29更新大气层1.11.2整合包V5，更新Checkpoint.nro-5.0.0英文，DBI.nro-898更新语言，更新极限超频Horizon OC 2.5.1。
 
 【使用说明】
 
