@@ -35,6 +35,7 @@ OFW-SYS：机身正版系统（Hekate的Fss0引导，强制只能进真实系统
 1.大气层虚拟系统首先进相册，sphaira那里按X安装桌面的万能前端。以后使用Checkpoint，jksv，dbi，CyberFoil都能稳定不崩溃。
 
 2.特斯拉插件修改为L+Ddown开启菜单，启动在相册Hekate/Deepsea工具箱里找Background services，设ON完毕，然后按B退出，再按Home保存后重启机器。切记：每次调Hekate工具箱后台插件管理务必确保sys-patch要设置ON。
+
 3.虚拟系统玩破解游戏只需要建一个头像账号，可以用linkalho.nro离线绑定任天堂账号。
 
 4.极限超频插件Switch-OC-Suite和普通超频区别是多了loader.kip这个文件（每次系统更新，loader.kip也要适配）和在hekate_ipl.ini中加一条指令kip1=atmosphere/kips/loader.kip。覆盖这2个文件就可变成极限超频，再加上boot2.flag零文件就变成系统自动启动极限超频插件。
