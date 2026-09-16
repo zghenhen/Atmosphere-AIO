@@ -1,6 +1,6 @@
-# 大气层1.11.2整合包V6带特斯拉和极限超频（2026.8.29更新）
+# 大气层1.12.0整合包pre带特斯拉和极限超频（2026.9.16更新）
 
-大气层1.11.2最高支持22.5.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
+大气层1.12.0最高支持23.0.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
 
 【下载地址】
 
@@ -8,7 +8,9 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
-2026.8.29更新大气层1.11.2整合包V6，更新特斯拉插件Ultrahand-Overlay，更新Checkpoint.nro-5.2.0英文，CyberFoil.nro-1.4.6中文，DBI.nro-898中文，sphaira.nro-1.0.6中文，更新Lockpick_RCM.bin-1.9.20英文。
+2026.9.16更新非官方大气层1.12.0整合包测试版，更新非官方大气层1.12.0，仅支持payload--fusee.bin加载，最高支持真实系统23.0.0和虚拟系统22.5.0，更新DBI.nro-905中文，sphaira.nro-1.0.7中文，更新Lockpick_RCM.bin-2.0.1英文。
+
+正版系统升级23.0.0，可以fusee加载进去daybreak降级22.5.0，然后制作虚拟系统22.5.0，用fusee加载能玩破解游戏，不存在休眠死机，但主界面的大气层虚拟系统进去还是会有休眠死机。极限超频的hoc.kip依然不支持，要删掉。
 
 【使用说明】
 
