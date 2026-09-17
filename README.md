@@ -2,6 +2,11 @@
 
 大气层1.12.0最高支持23.0.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
 
+<img width="500" height="229" alt="23 0 0E" src="https://github.com/user-attachments/assets/3725f3d1-4f27-4c23-bc61-b028cb1b9bbc" />
+
+<img width="500" height="243" alt="23 0 0S" src="https://github.com/user-attachments/assets/f7fea1e7-81a0-400c-9f25-0d15a5a6a72d" />
+
+
 【下载地址】
 
 https://github.com/zghenhen/Atmosphere-AIO/releases
