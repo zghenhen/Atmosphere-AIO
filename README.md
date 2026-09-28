@@ -8,7 +8,7 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
-2026.9.28更新大气层1.12.0整合包V1，官方大气层atmosphere-1.12.0-master-28d6a2e11，hekate_ctcaer_6.5.4_Nyx_1.9.4中文，增加Warmboot_Extractor.bin（续航lite和oled等mariko型号的提取防止熔断休眠死机补丁wb_xx.bin，自动提取，非续航的erista型号无用）。极限超频的hoc.kip没更新，可以删除或重命名atmosphere/kips文件夹名消除黑屏问题，当普通超频插件使用。
+2026.9.28更新大气层1.12.0整合包V1，官方大气层atmosphere-1.12.0-master-28d6a2e11，hekate_ctcaer_6.5.4_Nyx_1.9.4中文，增加Warmboot_Extractor.bin（续航lite和oled等mariko型号的提取防止熔断休眠死机补丁wb_xx.bin，自动提取，非续航的erista型号无用）。极限超频的hoc.kip没更新无法支持23.0.0，可以降级22.5.0或者删除或重命名atmosphere/kips文件夹名消除黑屏问题，当普通超频插件使用。
 
 【使用说明】
 
