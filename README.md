@@ -1,11 +1,6 @@
-# 大气层1.12.0整合包pre带特斯拉和极限超频（2026.9.16更新）
+# 大气层1.12.0整合包V1带特斯拉和极限超频（2026.9.28更新）
 
 大气层1.12.0最高支持23.0.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
-
-<img width="500" height="229" alt="23 0 0E" src="https://github.com/user-attachments/assets/3725f3d1-4f27-4c23-bc61-b028cb1b9bbc" />
-
-<img width="500" height="243" alt="23 0 0S" src="https://github.com/user-attachments/assets/f7fea1e7-81a0-400c-9f25-0d15a5a6a72d" />
-
 
 【下载地址】
 
@@ -13,9 +8,7 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
-2026.9.16更新非官方大气层1.12.0整合包测试版，更新非官方大气层1.12.0，仅支持payload--fusee.bin加载，最高支持真实系统23.0.0和虚拟系统22.5.0，更新DBI.nro-905中文，sphaira.nro-1.0.7中文，更新Lockpick_RCM.bin-2.0.1英文。
-
-正版系统升级23.0.0，可以fusee加载进去daybreak降级22.5.0，然后制作虚拟系统22.5.0，用fusee加载能玩破解游戏，不存在休眠死机，但主界面的大气层虚拟系统进去还是会有休眠死机。极限超频的hoc.kip依然不支持，要删掉。
+2026.9.28更新大气层1.12.0整合包V1，官方大气层atmosphere-1.12.0-master-28d6a2e11，hekate_ctcaer_6.5.4_Nyx_1.9.4中文，增加Warmboot_Extractor.bin（续航lite和oled等mariko型号的提取防止熔断休眠死机补丁wb_xx.bin，自动提取，非续航的erista型号无用）。极限超频的hoc.kip没更新，可以删除或重命名atmosphere/kips文件夹名消除黑屏问题，当普通超频插件使用。
 
 【使用说明】
 
