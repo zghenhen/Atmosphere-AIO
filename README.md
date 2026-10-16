@@ -1,6 +1,6 @@
-# 大气层1.12.0整合包V1带特斯拉和极限超频（2026.9.28更新）
+# 大气层1.12.1整合包V1带特斯拉和极限超频（2026.10.16更新）
 
-大气层1.12.0最高支持23.0.0系统，向下兼容支持21.x、20.x、19.x等低版本系统。
+大气层1.12.1最高支持23.0.1系统，向下兼容支持21.x、20.x、19.x等低版本系统。
 
 【下载地址】
 
@@ -8,7 +8,7 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
-2026.9.28更新大气层1.12.0整合包V1，官方大气层atmosphere-1.12.0-master-28d6a2e11，hekate_ctcaer_6.5.4_Nyx_1.9.4中文，增加Warmboot_Extractor.bin（续航lite和oled等mariko型号的提取防止熔断休眠死机补丁wb_xx.bin，自动提取，非续航的erista型号无用）。极限超频的hoc.kip没更新无法支持23.0.0，可以降级22.5.0或者删除或重命名atmosphere/kips文件夹名消除黑屏问题，当普通超频插件使用。
+2026.10.16更新大气层1.12.1整合包V1，更新官方大气层atmosphere-1.12.1-master-6b0c077b4，hekate6.5.4小更新，更新CyberFoil.nro-1.5.0中文，Checkpoint.nro-5.3.0英文，DBI.nro-912汉化版，sphaira.nro-1.0.8中文，更新极限超频Horizon-OC-2.6.0英文支持23.0.1和大气层1.12.1。
 
 【使用说明】
 
