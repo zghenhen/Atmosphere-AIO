@@ -1,4 +1,4 @@
-# 大气层1.12.1整合包V1带特斯拉和极限超频（2026.10.16更新）
+# 大气层1.12.1整合包V2带特斯拉和极限超频（2026.10.20更新）
 
 大气层1.12.1最高支持23.0.1系统，向下兼容支持21.x、20.x、19.x等低版本系统。
 
@@ -8,11 +8,11 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
-2026.10.16更新大气层1.12.1整合包V1，更新官方大气层atmosphere-1.12.1-master-6b0c077b4，hekate6.5.4小更新，更新CyberFoil.nro-1.5.0中文，Checkpoint.nro-5.3.0英文，DBI.nro-912汉化版，sphaira.nro-1.0.8中文，更新极限超频Horizon-OC-2.6.0英文支持23.0.1和大气层1.12.1。
+2026.10.20更新大气层1.12.1整合包V2，更新sys-patch-1.6.3.0英文，更新特斯拉插件的ovlloader，ovlmenu-ultrahand，ovlsysmodule和edizon模块。
 
 【使用说明】
 
-首先感谢莱莱大佬的大气层整合包的制作教程，和大佬的沟通交流，已经熟练掌握方法，以后更新也会自己动手弄了。如果一直使用我发的大气层整合包，没有另外加插件的，以后更新日志里没有特别说明，就可以一直覆盖升级，我的整合包里只有极限超频插件可自选添加，如果更新以后也多覆盖一次极限超频插件。删除TF卡上的atmosphere/kips/loader.kip，极限超频插件变成普通超频插件。
+首先感谢莱莱大佬的大气层整合包的制作教程，和大佬的沟通交流，已经熟练掌握方法，以后更新也会自己动手弄了。如果一直使用我发的大气层整合包，没有另外加插件的，以后更新日志里没有特别说明，就可以一直覆盖升级，我的整合包里只有极限超频Horizon-OC插件可自选添加，如果更新以后也多覆盖一次极限超频插件。删除TF卡上的atmosphere/kips/文件夹，极限超频插件变成普通超频插件。
 
 https://github.com/laila509/hekate_ipl/releases/tag/v6.0.3
 
