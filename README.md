@@ -1,4 +1,4 @@
-# 大气层1.12.1整合包V2带特斯拉和极限超频（2026.10.20更新）
+# 大气层1.12.1整合包V2带特斯拉和极限超频（2026.11.4更新）
 
 大气层1.12.1最高支持23.0.1系统，向下兼容支持21.x、20.x、19.x等低版本系统。
 
@@ -8,7 +8,7 @@ https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
 
-2026.10.20更新大气层1.12.1整合包V2，更新sys-patch-1.6.3.0英文，更新特斯拉插件的ovlloader，ovlmenu-ultrahand，ovlsysmodule和edizon模块。
+2026.11.4更新大气层1.12.1整合包V3，更新特斯拉插件的Status-Monitor-Overlay模块，更新CyberFoil.nro-1.5.1中文，DBI.nro-921汉化版，sphaira.nro-1.0.9中文。
 
 【使用说明】
 
@@ -32,15 +32,13 @@ OFW-SYS：机身正版系统（Hekate的Fss0引导，强制只能进真实系统
 
 【进虚拟系统】
 
-1.大气层虚拟系统首先进相册，sphaira那里按X安装桌面的万能前端。以后使用Checkpoint，jksv，dbi，CyberFoil都能稳定不崩溃。
+1.大气层虚拟系统首先进相册，sphaira那里按X安装桌面的万能前端，设置默认。以后使用Checkpoint，jksv，dbi，CyberFoil都能稳定不崩溃。
 
 2.特斯拉插件修改为L+Ddown开启菜单，启动在相册Hekate/Deepsea工具箱里找Background services，设ON完毕，然后按B退出，再按Home保存后重启机器。切记：每次调Hekate工具箱后台插件管理务必确保sys-patch要设置ON。
 
 3.虚拟系统玩破解游戏只需要建一个头像账号，可以用linkalho.nro离线绑定任天堂账号。
 
-4.极限超频插件Switch-OC-Suite和普通超频区别是多了loader.kip这个文件（每次系统更新，loader.kip也要适配）和在hekate_ipl.ini中加一条指令kip1=atmosphere/kips/loader.kip。覆盖这2个文件就可变成极限超频，再加上boot2.flag零文件就变成系统自动启动极限超频插件。
-
-非续航型号不必超频，其它型号可以玩玩普通超频，玩极限超频去专门提供教程的网站学习，极限超频弄坏系统或硬件一律归于个人行为。
+4.极限超频插件Switch-OC-Suite和普通超频区别是多了hoc.kip这个文件（每次系统更新，kip也要适配）和在hekate_ipl.ini中加一条指令kip1=atmosphere/kips/*。覆盖这2个文件就可变成极限超频，再加上boot2.flag零文件就变成系统自动启动极限超频插件。非续航型号不必超频，其它型号可以玩玩普通超频，玩极限超频去专门提供教程的网站学习，极限超频弄坏系统或硬件一律归于个人行为。
 
 ![Banner](img/banner.png?raw=true)
 =====
