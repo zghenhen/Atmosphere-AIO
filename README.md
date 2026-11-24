@@ -1,4 +1,4 @@
-# 大气层1.12.2整合包V1带特斯拉和极限超频（2026.11.13更新）
+# 大气层1.12.2整合包V2带特斯拉和极限超频（2026.11.24更新）
 
 大气层1.12.2最高支持23.5.0系统，向下兼容支持22.x、19.x等低版本系统，注意sys-patch插件可能并不支持1.0等老旧的SW系统。
 
@@ -7,6 +7,8 @@
 https://github.com/zghenhen/Atmosphere-AIO/releases
 
 https://codeberg.org/zghenhen/Atmosphere-AIO/releases
+
+2026.11.24更新大气层1.12.2整合包V2，更新sphaira.nro-1.1.1中文，DBI.nro-921汉化版小更新。
 
 2026.11.13更新大气层1.12.2整合包V1，更新大气层1.11.2，hekate6.5.5，更新特斯拉插件的ovlmenu-ultrahand模块，更新极限超频Horizon-OC-2.6.1中文。
 
